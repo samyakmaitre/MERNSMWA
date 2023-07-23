@@ -12,6 +12,7 @@ function App() {
         {/* <Auth/> */}
     </div>
   );
+  
 }
 
 export default App;
